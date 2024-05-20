@@ -1,0 +1,8 @@
+comunicaciones.c:52:6:InicializaBuffersComunicaciones	0	static
+comunicaciones.c:169:9:paridad_par	0	static
+comunicaciones.c:186:6:Bin2Ascii	12	static
+comunicaciones.c:200:9:LonCad	0	static
+comunicaciones.c:62:6:GestorComunicaciones	16	static
+comunicaciones.c:95:6:TransmiteEvento	24	static
+comunicaciones.c:208:6:HAL_UART_RxCpltCallback	0	static
+comunicaciones.c:220:6:HAL_UART_TxCpltCallback	0	static

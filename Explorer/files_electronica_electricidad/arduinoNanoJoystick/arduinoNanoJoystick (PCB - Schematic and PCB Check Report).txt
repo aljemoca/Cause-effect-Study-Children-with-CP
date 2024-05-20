@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Friday, November 03, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.pcb
+Design Title:       
+Created:            29/09/2023 10:06:45
+Last Saved:         27/10/2023 12:07:01
+Editing Time:       877 min
+Units:              mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.sch" with PCB "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.pcb"
+==========================================================================================================================================================================================================================
+
+
+End Of Report.

@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Friday, October 27, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.pcb
+Design Title:       
+Created:            29/09/2023 11:06:45
+Last Saved:         27/10/2023 13:05:09
+Editing Time:       874 min
+Units:              mm (precision 1)
+
+
+End Of Report.

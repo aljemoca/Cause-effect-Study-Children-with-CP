@@ -1,0 +1,6 @@
+sonido.c:5:6:GestorAudio	8	static
+sonido.c:43:9:Play	24	static
+sonido.c:67:9:VolumeMP3	24	static
+sonido.c:82:9:ResetMP3	16	static
+sonido.c:98:6:PreparaPaquete	24	static
+sonido.c:132:10:checksum	24	static

@@ -1,0 +1,5 @@
+motores.c:36:6:ActualizaVelocidad	16	static
+motores.c:50:6:GestorMotores	8	static
+motores.c:73:6:ResetPID	16	static
+motores.c:82:9:Algoritmo_PID	40	static
+motores.c:101:6:ControlMotores	24	static

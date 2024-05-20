@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Friday, May 28, 2021
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace\PatinAspace.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace\PatinAspace.pcb
+Design Title:       
+Created:            25/05/2021 8:12:04
+Last Saved:         28/05/2021 13:52:27
+Editing Time:       4660 min
+Units:              mm (precision 2)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.

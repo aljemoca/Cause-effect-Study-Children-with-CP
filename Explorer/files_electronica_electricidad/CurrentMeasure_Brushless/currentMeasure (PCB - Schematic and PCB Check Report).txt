@@ -1,0 +1,20 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Wednesday, June 14, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.pcb
+Design Title:       
+Created:            11/05/2023 13:35:06
+Last Saved:         05/06/2023 12:28:23
+Editing Time:       1172 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.sch" with PCB "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.pcb"
+==========================================================================================================================================================================================================================
+
+The designs are the same.
+
+
+End Of Report.

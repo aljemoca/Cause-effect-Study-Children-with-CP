@@ -1,0 +1,26 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, June 23, 2022
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab2.pcb
+Design Title:       
+Created:            25/05/2021 8:12:04
+Last Saved:         23/06/2022 11:47:56
+Editing Time:       6896 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab2.sch" with PCB "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab2.pcb"
+======================================================================================================================================================================================================
+
+The PCB and Schematic designs do not match.
+To bring them into line, you will need to make the following changes to the PCB design:
+
+
+Component '2WP' package 'DSC' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'BORNA_TRIPLE' package 'DIL' in PCB is newer version than Schematic, use Update Component to correct this.
+Component 'BORNA_DOBLE' package 'DIL' in PCB is newer version than Schematic, use Update Component to correct this.
+
+
+End Of Report.

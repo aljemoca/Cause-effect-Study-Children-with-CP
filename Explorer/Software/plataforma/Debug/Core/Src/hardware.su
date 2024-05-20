@@ -1,0 +1,4 @@
+hardware.c:21:6:GestorInterfaz	8	static
+hardware.c:66:6:ControlPulsador	8	static
+hardware.c:91:6:ControlLeds	32	static
+hardware.c:158:6:ControlHabiliadorEco	8	static

@@ -1,0 +1,11 @@
+sensores.c:73:6:GestorSensores	24	static
+sensores.c:131:10:DetectaObstaculo	24	static
+sensores.c:168:6:DetectaMovimiento	8	static
+sensores.c:198:9:WriteEcoValue	32	static
+sensores.c:235:6:InicializaBufferUltrasonidos	16	static
+sensores.c:246:6:InicializaBuffers	8	static
+sensores.c:260:6:InicializaHallBuffer	16	static
+sensores.c:271:9:WriteHallValue	32	static
+sensores.c:309:10:MedianN	40	dynamic
+sensores.c:342:6:SensoresNivel0	16	static
+sensores.c:463:6:HAL_TIM_IC_CaptureCallback	32	static

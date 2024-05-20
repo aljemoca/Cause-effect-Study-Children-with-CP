@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Monday, June 05, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.pcb
+Design Title:       
+Created:            11/05/2023 13:35:06
+Last Saved:         05/06/2023 9:12:22
+Editing Time:       975 min
+Units:              mm (precision 2)
+
+
+End Of Report.

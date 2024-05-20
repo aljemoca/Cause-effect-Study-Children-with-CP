@@ -1,0 +1,6 @@
+main.c:209:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:730:6:HAL_IncTick	0	static
+main.c:787:6:InicializaVariables	0	static
+main.c:808:6:GestorTareas	8	static
+main.c:95:5:main	88	static,ignoring_inline_asm
+main.c:824:6:Error_Handler	0	static,ignoring_inline_asm

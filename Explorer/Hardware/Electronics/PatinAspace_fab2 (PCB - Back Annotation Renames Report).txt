@@ -1,0 +1,19 @@
+Back Annotation Renames Report
+------------------------------
+
+Report Written:     Thursday, June 23, 2022
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\PatinAspace2\PatinAspace_fab2.pcb
+Design Title:       
+Created:            25/05/2021 8:12:04
+Last Saved:         23/06/2022 11:40:32
+Editing Time:       6887 min
+Units:              mm (precision 2)
+
+Outstanding PCB renames awaiting back annotation to the Schematics design.
+
+Rename Net from "enaRight" to "enaLeft1".
+Rename Net from "enaLeft" to "enaRight".
+Rename Net from "enaLeft1" to "enaLeft".
+
+End Of Report.

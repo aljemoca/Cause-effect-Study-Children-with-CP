@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Friday, September 29, 2023
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\arduinoNanoJoystick\arduinoNanoJoystick.pcb
+Design Title:       
+Created:            29/09/2023 11:06:45
+Last Saved:         29/09/2023 11:07:12
+Editing Time:       0 min
+Units:              mm (precision 1)
+
+Net class "Signal" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Power" was not defined, but has been created. Please check the values in the PCB design.
+Net class "Ground" was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

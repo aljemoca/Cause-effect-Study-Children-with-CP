@@ -1,0 +1,127 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, June 05, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.pcb
+Design Title:       
+Created:            11/05/2023 13:35:06
+Last Saved:         05/06/2023 9:16:41
+Editing Time:       979 min
+Units:              mm (precision 2)
+
+
+Results
+=======
+
+Annular ring too small at (465.50,544.50)
+    Size is 0.05 should be 0.12.
+Annular ring too small at (465.50,506.00)
+    Size is 0.05 should be 0.12.
+Annular ring too small at (518.00,506.00)
+    Size is 0.05 should be 0.12.
+Annular ring too small at (518.00,545.00)
+    Size is 0.05 should be 0.12.
+Via to Silkscreen error (V-S) at (496.60 530.80) on layer "Top Silkscreen".
+    Silkscreen text '?' overlaps via.
+Via to Silkscreen error (V-S) at (485.40 530.42) on layer "Top Silkscreen".
+    Silkscreen text '?' overlaps via.
+Track to Drill Hole error (T-D) at (468.60 512.85) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (468.60 523.03) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (515.27 512.90) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (515.27 517.98) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (515.27 523.08) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (478.86 536.00) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (478.86 531.00) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (501.00 528.00) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (505.90 528.00) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (496.60 530.80) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (496.60 526.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (494.50 519.70) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (494.81 530.70) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (494.81 526.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (489.00 519.70) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (482.94 530.80) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (482.94 526.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (478.30 512.20) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (485.54 530.80) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (485.54 526.00) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (483.40 512.10) on layer "Bottom Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (494.30 536.02) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Track to Drill Hole error (T-D) at (494.30 541.40) on layer "Top Copper".
+    Track too wide to backoff from drill.
+Dangling Track from (492.21,531.82) to (492.20,531.83) on layer Top Copper
+Dangling Track from (494.69,516.53) to (494.59,516.63) on layer Bottom Copper
+Dangling Track from (494.69,516.73) to (494.59,516.63) on layer Bottom Copper
+
+Number of errors found : 32
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  Yes
+Drill Backoff                   Yes
+Silkscreen Overlap              Yes
+Copper Text In Board            Yes
+Min Track Width                 Yes
+Min Annular Ring                Yes
+Min Paste Size                  Yes
+Vias In Pads                    Yes
+Unplated Vias                   Yes
+Unplated Pads With Inner Tracks Yes
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

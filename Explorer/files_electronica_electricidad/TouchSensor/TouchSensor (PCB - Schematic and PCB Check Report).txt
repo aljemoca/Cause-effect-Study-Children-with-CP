@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Thursday, March 30, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\TouchSensor\TouchSensor.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\TouchSensor\TouchSensor.pcb
+Design Title:       
+Created:            30/03/2023 14:22:22
+Last Saved:         30/03/2023 14:36:48
+Editing Time:       15 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\TouchSensor\TouchSensor.sch" with PCB "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\TouchSensor\TouchSensor.pcb"
+==========================================================================================================================================================================================
+
+
+End Of Report.

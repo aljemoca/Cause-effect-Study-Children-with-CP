@@ -1,0 +1,261 @@
+Plot Report
+-----------
+
+Report Written:     Monday, June 05, 2023
+Project Path:       C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.prj
+Design Path:        C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.pcb
+Design Title:       
+Created:            11/05/2023 13:35:06
+Last Saved:         05/06/2023 9:21:32
+Editing Time:       981 min
+Units:              mm (precision 2)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D17    Round 7.87
+    D98    Round 1.00
+    D110   Round 6.00
+    D111   Round 3.00
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D11    Round 31.50
+    D12    Round 5.00
+    D21    Round 15.75
+    D23    Round 25.20
+    D25    Round 15.00
+    D76    Round 10.00
+    D124   Round 23.62
+    D125   Round 31.89
+    D126   Round 122.05
+    D127   Rectangle 27.00 X 50.00
+    D128   Rectangle 27.00 X 175.00
+    D129   Round 118.11
+    D130   Rectangle 15.75 X 52.00  Rotation 90
+    D131   Rectangle 39.37 X 42.91  Rotation 90
+    D132   Rectangle 39.37 X 42.91
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D133   Round 132.05
+    D134   Rectangle 37.00 X 60.00
+    D135   Rectangle 37.00 X 185.00
+    D136   Round 128.11
+    D137   Rectangle 25.75 X 62.00  Rotation 90
+    D138   Rectangle 49.37 X 52.91  Rotation 90
+    D139   Rectangle 49.37 X 52.91
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D140   Rectangle 23.00 X 46.00
+    D141   Rectangle 23.00 X 171.00
+    D142   Rectangle 11.75 X 48.00  Rotation 90
+    D143   Rectangle 35.37 X 38.91  Rotation 90
+    D144   Rectangle 35.37 X 38.91
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------
+    D11    Round 31.50
+    D12    Round 5.00
+    D21    Round 15.75
+    D23    Round 25.20
+    D76    Round 10.00
+    D124   Round 23.62
+    D125   Round 31.89
+    D126   Round 122.05
+    D129   Round 118.11
+    D145   Round 25.00
+    D146   Rectangle 71.00 X 122.00
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------
+    D133   Round 132.05
+    D136   Round 128.11
+    D147   Rectangle 81.00 X 132.00
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------
+    D148   Rectangle 67.00 X 118.00
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D98    Round 1.00
+    D149   Round 8.00
+
+NC Drill Output
+===============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size       Count   ID
+    ----------------------------------
+    T001  0.41000 mm 18    V
+    T002  1.40000 mm 11    R
+    T003  3.00000 mm 4     S
+    ----------------------------------
+    Total            33
+    ----------------------------------
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    55    Y      100  Round R
+    118   Y      100  Round S
+    16    Y      100  Round V
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+    D18    Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\ATC\Desktop\DISEÑO_PCB\DISEÑO_PCB\CurrentMeasure_Brushless\currentMeasure - Board.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D12    Round 5.00
+
+End Of Report.
